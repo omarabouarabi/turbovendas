@@ -1,5 +1,5 @@
 // Configuração do link do Kirvano
-const KIRVANO_LINK = 'https://kirvano.com/wa-sender'; // Substitua pelo link real
+const KIRVANO_LINK = 'https://pay.kirvano.com/642fc45c-5db9-4015-a4fd-7f760f5d68d6'; // Substitua pelo link real
 
 // Smooth scrolling para links internos
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
